@@ -4,27 +4,27 @@ Project Planning:
 Objective Definition: Clearly define the goals and objectives of the Classroom Management System. Identify the features and functionalities that the system should include, such as attendance tracking, grading, communication tools, etc.
 Scope Definition: Define the scope of the project, including the target audience (teachers, students, administrators), platforms (web, mobile), and any limitations.
 Resource Planning: Identify the resources required, including human resources, technology, and tools.
-System Design:
 
+System Design:
 Architectural Design: Define the overall system architecture, including the structure of the database, server-side components, and client-side interfaces.
 Detailed Design: Create detailed specifications for each module or component of the system, outlining how they will interact and function.
-Implementation (Coding):
 
+Implementation (Coding):
 Write the code based on the detailed design specifications.
 Develop the frontend (user interface) and backend (server-side logic).
 Implement features such as user authentication, data storage, and communication modules.
-Testing:
 
+Testing:
 Unit Testing: Test each module or component individually to ensure it functions as expected.
 Integration Testing: Test the interaction between different modules to ensure they work together seamlessly.
 System Testing: Test the entire system to verify that it meets the specified requirements.
-Deployment:
 
+Deployment:
 Deploy the Classroom Management System to a test environment.
 Conduct user acceptance testing to get feedback from stakeholders.
 Make any necessary adjustments based on user feedback.
-Maintenance and Support:
 
+Maintenance and Support:
 Provide ongoing maintenance and support for the system.
 Address any issues or bugs that arise.
 Implement updates and new features as needed.
